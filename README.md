@@ -10,16 +10,6 @@ A simple React-based To-Do List application that demonstrates core React concept
 ## Tech Stack
 React.js, JavaScript (ES6+), CSS, HTML
 
-## Project Structure
-Todolist-React/
-│── public/
-│── src/
-│   ├── components/
-│   │   └── TodoItem.js
-│   │   └── TodoList.js
-│   └── App.js
-│── package.json
-│── README.md
 
 ## Installation & Setup
 Clone the repository:
